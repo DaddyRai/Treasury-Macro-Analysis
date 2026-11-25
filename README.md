@@ -60,15 +60,19 @@ The pipeline stages source series, standardizes dates, handles missing observati
 
 ### Macro Overview
 High-level comparison of interest rates, inflation, unemployment, and financial market conditions.
+<img width="1359" height="768" alt="image" src="https://github.com/user-attachments/assets/cba24638-f450-44ff-a172-b68cb3190968" />
 
 ### Fed & Rates
 Federal funds rate, Treasury yields, and Federal Reserve balance-sheet developments.
+<img width="1358" height="769" alt="image" src="https://github.com/user-attachments/assets/6050f4a8-4d45-4dad-9708-644b89acc1aa" />
 
 ### Curve Signals
 10Y–2Y and 10Y–3M yield spreads, inversion periods, and term-structure signals.
+<img width="1364" height="774" alt="image" src="https://github.com/user-attachments/assets/0f3be83d-7d73-44cf-9966-63c0b21258e7" />
 
 ### Markets
 S&P 500 monthly performance viewed alongside macroeconomic data.
+<img width="1376" height="778" alt="image" src="https://github.com/user-attachments/assets/49c97ca7-912b-4a43-8315-e495fc9ecb04" />
 
 ## Key Findings
 
